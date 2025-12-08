@@ -1,0 +1,39 @@
+body {
+	font-family: Georgia, serif;
+	max-width: 800px;
+	margin: auto;
+	padding: auto;
+	background-color: #D7EEFF;
+}
+
+img {
+	width: 100%;
+}
+
+img, iframe {
+	width: 100%;
+}
+
+.caption {
+	font-size: 14px;
+	margin: 5px 0px;
+	line-height: 14px;
+}
+
+h1 {
+	font-size: 40px;
+}
+
+p {
+	font-size: 20px;
+	line-height: 26px;
+}
+
+a {
+	color: black;
+}
+
+
+
+
+
